@@ -5,6 +5,7 @@ Welcome to the Snake Game with Pygame repository! This project is a classic snak
 ## Overview
 
 The Snake Game with Pygame is a recreation of the classic Snake game that many of us grew up playing. It's enhanced with delightful graphics and sound effects, making it an engaging and nostalgic experience. The game's objective is to control the snake, collect food, and avoid collisions with the walls and yourself. How long can you make your snake grow?
+![Output](graphics/snake-game-screenshot.png)
 
 ## Features
 
@@ -20,7 +21,7 @@ To play the Snake Game with Pygame on your machine, follow these steps:
 
 1. **Clone the Repository:** `git clone https://github.com/rohan-4761/snake-game.git`
 
-2. **Navigate to Project Directory:** `cd snake-game`
+2. **Navigate to Project Directory:** `cd snake-game/code`
 
 3. **Install Dependencies:** Ensure you have Python and Pygame installed. If not, you can install Pygame using `pip`:
 
@@ -43,7 +44,7 @@ To play the Snake Game with Pygame on your machine, follow these steps:
 
 ## Credits
 
-This project was developed as a way to explore Pygame's capabilities and bring the joy of the classic Snake game to modern audiences with enhanced graphics and sound.
+This project was developed by following the "Build a Snake Clone with Pygame" tutorials by Clear Code on the Net Ninja YouTube channel. Special thanks to Clear Code for the excellent tutorials.
 
 ## License
 
